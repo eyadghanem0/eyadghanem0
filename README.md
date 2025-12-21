@@ -37,6 +37,10 @@ Data Analyst Career Guide and Interview Preparation
 
 ![Certificate](https://github.com/eyadghanem0/eyadghanem0/commit/00881556a8e09dd691e31cf64804045f67b1d365#diff-6309c0377c1608e409c4d5c951a84ddfda1b0066763af22bb0b48f2eb4662cc4)
 
+- Microsoft Creative Designing in Power BI (Coursera)
+
+![Certificate](
+
 ## 💼 Work Wepsites
 
 ## ☎️ Connect With Me
