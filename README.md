@@ -36,11 +36,11 @@ Generative AI: Enhance your Data Analytics Career
 
 Data Analyst Career Guide and Interview Preparation
 
-![Certificate](https://github.com/eyadghanem0/eyadghanem0/commit/00881556a8e09dd691e31cf64804045f67b1d365#diff-cdb496f701eae801d6148fabf5fcd136bc635eee9119836c034c8ccdd6fac851)
+![Certificate](https://github.com/eyadghanem0/eyadghanem0/blob/6362b96c959c21d2b64890e948a608fdb63f5a75/IBM%20Data%20Analyst%20Professional%20Certificate.jpeg)
 
 - Microsoft Data Analysis and Visualization with Power BI Course Certificate (Coursera)
 
-![Certificate](https://github.com/eyadghanem0/eyadghanem0/commit/00881556a8e09dd691e31cf64804045f67b1d365#diff-6309c0377c1608e409c4d5c951a84ddfda1b0066763af22bb0b48f2eb4662cc4)
+![Certificate](https://github.com/eyadghanem0/eyadghanem0/blob/6362b96c959c21d2b64890e948a608fdb63f5a75/Microsoft%20Data%20Analysis%20and%20Visualization%20with%20Power%20BI%20Certificate.jpeg)
 
 - Microsoft Creative Designing in Power BI (Coursera)
 
