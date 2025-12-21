@@ -5,6 +5,11 @@
 ## 📎 Portfolio
 Check my projects: 
 - [Zomato Restaurants In Bangalore](https://github.com/eyadghanem0/Zomato-Restaurants-In-Bangalore)
+- [Economy After Covid-19 Dashboard](https://github.com/eyadghanem0/Economy-After-Covid-19-Dashboard)
+- [New York Taxis](https://github.com/eyadghanem0/New-York-Taxis)
+- [Hospital Data Dashboard](https://github.com/eyadghanem0/Hospital-Data-Dashboard)
+- [E-Commerce Business Analysis](https://github.com/eyadghanem0/E-Commerce-Business-Analysis)
+- [Superstore Sales Performance Analysis and Optimization](https://github.com/eyadghanem0/Superstore-Sales-Performance-Analysis-and-Optimization)
 
 ## 📃 Certificates
 - IBM Data Analyst Professional Certificate (Coursera):
@@ -39,8 +44,13 @@ Data Analyst Career Guide and Interview Preparation
 
 - Microsoft Creative Designing in Power BI (Coursera)
 
-![Certificate](
+![Certificate](https://github.com/eyadghanem0/eyadghanem0/blob/20cab144fd25617fbff56e2f43e0b4b29324dd25/Microsoft%20Creative%20Designing%20in%20Power%20BI.jpeg)
 
 ## 💼 Work Wepsites
+- Khamsat (خمسات) (Click Here)[https://khamsat.com/user/eyadghanem0]
+- Freelancer (Click Here)[https://www.freelancer.com/u/eyadghanem0]
 
 ## ☎️ Connect With Me
+- Email: eyadghanem037@gmail.com
+- Phone Number : +963 994740725
+- Facebook : (Click Here)[https://www.facebook.com/share/1AqcFKcPsz/]
