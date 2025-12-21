@@ -47,10 +47,10 @@ Data Analyst Career Guide and Interview Preparation
 ![Certificate](https://github.com/eyadghanem0/eyadghanem0/blob/20cab144fd25617fbff56e2f43e0b4b29324dd25/Microsoft%20Creative%20Designing%20in%20Power%20BI.jpeg)
 
 ## 💼 Work Wepsites
-- Khamsat (خمسات) (Click Here)[https://khamsat.com/user/eyadghanem0]
-- Freelancer (Click Here)[https://www.freelancer.com/u/eyadghanem0]
+- Khamsat (خمسات) [Click Here](https://khamsat.com/user/eyadghanem0)
+- Freelancer [Click Here](https://www.freelancer.com/u/eyadghanem0)
 
 ## ☎️ Connect With Me
 - Email: eyadghanem037@gmail.com
 - Phone Number : +963 994740725
-- Facebook : (Click Here)[https://www.facebook.com/share/1AqcFKcPsz/]
+- Facebook : [Click Here](https://www.facebook.com/share/1AqcFKcPsz/)
