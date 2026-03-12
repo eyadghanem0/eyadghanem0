@@ -3,7 +3,7 @@
 - 🖥️ Building data projects using python, Power BI, Excel and SQL
 
 ## 📝 CV
-[My CV](https://drive.google.com/file/d/1Uk5KrEaHvdNHMn3rN7ITgUHhTl--TjNb/view?usp=drivesdk)
+[My CV](https://drive.google.com/file/d/1_GLfmxpk_mBhMRl93LotDsoLA4kDi5Sh/view?usp=drivesdk)
 ## 📎 Portfolio
 Check my projects: 
 - [Zomato Restaurants In Bangalore](https://github.com/eyadghanem0/Zomato-Restaurants-In-Bangalore)
